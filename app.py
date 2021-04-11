@@ -47,5 +47,5 @@ def messages():
 
 
 if __name__ == '__main__':
-    app.run('localhost',3978)
-    #app.run()
+    #app.run('localhost',3978)
+    app.run()
